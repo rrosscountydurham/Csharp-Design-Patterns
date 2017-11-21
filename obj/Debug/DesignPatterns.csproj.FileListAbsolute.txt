@@ -1,0 +1,6 @@
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+\\fs01\staffdata\UserData\rross\Visual Studio 2015\Projects\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
